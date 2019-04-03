@@ -1,0 +1,25 @@
+body, html, header, .view {
+   height: 100%;
+
+ }
+#intro {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZHzMhtK1c2QB0ma0R09tonLsmnpbm-u48NHZs8XHEg-ujdEH);
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-O-background-size:cover;
+}
+
+.mask {
+  padding-top: 300px;
+}
+
+input{
+  border: 0;
+  border-bottom: 2px solid black;
+  display: block;
+}
+.form-control {
+  border: 0;
+  border-bottom: 2px solid black;
+  border-bottom-width: small; 
+}
